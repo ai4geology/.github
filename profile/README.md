@@ -22,6 +22,7 @@ English | [简体中文](README_zh-CN.md)
 To manage our code and cooperate better, we are excited to use <b>git<b> to restore our program 
 
 <p align="right"><a href="#top">🔝Back to top</a></p>
+
 ## 📖 Group Introduction
 
 AI4Geoscience Research Group is an open-source organization which do some jointly resaerches in geosciences and the artificial intelligence (AI). In this group, members mainly majors in <u>***Gesciences***</u>, including <u>***petroleum geology***</u>, <u>***sedimentology***</u> and <u>***geochemistry***</u>. Also, some members also have education background in <u>***Computer Sciences***</u>. 
