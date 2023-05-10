@@ -1,5 +1,5 @@
 <div id="top" align="center">
-  <img src="GitHub.com/images/logo.png" width="500px"/>
+  <img src="profile/images/logo.png" width="500px"/>
   <div>&nbsp;</div>
   <div align="center">
     <font size="10"><b>AI4Geoscience Research Group</font>
