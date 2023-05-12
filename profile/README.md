@@ -61,6 +61,7 @@ AI4Geoscience Research Group is an open-source organization which do some jointl
 - PPL-to-Cathodoluminescence image translation
 
 <div align=center><img src="images/imageonline-co-gifimage.gif" width="500px" loc="center"/></div>
+<div align=center><img src="images/result.jpg" width="500px" loc="center"/></div>
 
 - PasseyNet: An Application of the Well-logs-to-TOC Predicting
 
