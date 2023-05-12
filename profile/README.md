@@ -39,7 +39,7 @@ AI4Geoscience Research Group is an open-source organization which do some jointl
 
   From 09/2023, she will be a mastery student who is majoring the academic degree of <u>***Geo-resources and Geo-engineering***</u> in the College of Energy, Chengdu University of Technology. Her reseaches of interests includes <u>***Data-mining in geochemistry***</u> and <u>***Applications of computer vision***</u>.
 
-- **Chunqiao Yan (Chengdu University of Technology, <u>1198481650</u>)
+- **Chunqiao Yan (Chengdu University of Technology, <u>158527608@qq.com</u>)
 
   Nowadays a mastery student who is majoring the academic degree of <u>***Geo-resources and Geo-engineering***</u> in the College of Energy, Chengdu University of Technology. His reseaches of interests includes <u>***Isotopic geochemistry analysis in the plaeo-ocaen, paleo-climate and paleo-environment***</u> and <u>***Applications of computer vision, data-mining in the sedimentology***</u>.
 
