@@ -17,9 +17,26 @@ English | [简体中文](README_zh-CN.md)
 
 ##  🛠️What's New <a><img width="35" height="20" src="https://user-images.githubusercontent.com/12782558/212848161-5e783dd6-11e8-4fe0-bbba-39ffb77730be.png"></a>
 
-### Set up the Github organization of AI4Geoscience \[09/05/2023\]:
+### Articles accepted! \[13/07/2023\]:
+
+Two papers from Keran Li and Shan Ren were accepeted by the Seventh International Conference on Engineering Geophysics (ICEG2023) and would be published on the journal ***Geophysics*** (SCI 2, TOP in geophysics).
+
+<u>Keran Li, Jinmin Song, Lizhou Tian, et al., 2023. Attention Mechanism and Spatial-time Information Assist Well-Logging Lithological Interpretation: An Experiment from Lower Triassic Jialingjiang Formation, East Sichuan Basin, SW China </u>
+
+### Abstract accepted! \[01/06/2023\]:
+
+Three abstracts mainly contributed by Yingjie Ma, Ziayng Zhang and Keran Li were accepted by the Seventh Conference on Earth System Science (CESS2023).
+
+### Members graduated! \[15/06/2023\]:
+
+Keran Li graducated from the College of Energy, Chengdu University of Technology, with a master degree. He will join Dr. Xiumian Hu's research group (Nanjing University) to continue his doctery research.
+
+Shan Ren graducated from the College of Energy, Chengdu University of Technology, with a bachelor degree. She will join Dr. Jinmin Song's research group (Chengdu University of Technology) to continue her mastery research.
+
+### Set up the Github organization of AI4Geoscience \[05/09/2023\]:
 
 To manage our code and cooperate better, we are excited to use <b>git<b> to restore our program 
+
 
 <p align="right"><a href="#top">🔝Back to top</a></p>
 
@@ -31,9 +48,9 @@ AI4Geoscience Research Group is an open-source organization which do some jointl
 
 ## ✨ Members
 
-- **Keran Li (Chengdu University of Technology, <u>keranli98@outlook.com</u>)
+- **Keran Li (Nanjing University, <u>keranli98@outlook.com</u>)
 
-  Nowadays a mastery student who is majoring the academic degree of <u>***Geo-resources and Geo-engineering***</u> in the College of Energy, Chengdu University of Technology. His reseaches of interests includes <u>***Isotopic geochemistry analysis in the plaeo-ocaen, paleo-climate and paleo-environment***</u> and <u>***Applications of computer vision, data-mining in the sedimentology***</u>.
+  Nowadays a doctery student who is majoring the academic degree of <u>***Geology***</u> in the College of Earth Science and Engineering, Nanjing University. His reseaches of interests includes <u>***Isotopic geochemistry analysis in the plaeo-ocaen, paleo-climate and paleo-environment***</u> and <u>***Applications of computer vision, data-mining in the sedimentology***</u>.
 
 - **Shan Ren (Chengdu University of Technology, <u>1198481650@qq.com</u>)
 
