@@ -23,7 +23,7 @@ Two papers from Keran Li and Shan Ren were accepeted by the Seventh Internationa
 
 <u>Keran Li, Jinmin Song, Lizhou Tian, et al., 2023. Attention Mechanism and Spatial-time Information Assist Well-Logging Lithological Interpretation: An Experiment from Lower Triassic Jialingjiang Formation, East Sichuan Basin, SW China </u>
 
-### Abstract accepted! \[01/06/2023\]:
+### Abstract accepted! \[20/06/2023\]:
 
 Three abstracts mainly contributed by Yingjie Ma, Ziayng Zhang and Keran Li were accepted by the Seventh Conference on Earth System Science (CESS2023).
 
